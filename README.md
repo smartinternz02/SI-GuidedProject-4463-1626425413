@@ -1,1 +1,1 @@
-# Tesseract-OCR
+# Document Reading using OCR
